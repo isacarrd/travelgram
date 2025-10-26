@@ -1,0 +1,32 @@
+header {
+  background-color: var(--surface);
+  padding: 20px 32px 20px 32px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+}
+ul#nav-itens li {
+  list-style-type: none;
+  font: var(--p-head);
+  padding: 4px;
+  gap: 8px;
+}
+li a {
+  text-decoration: none;
+  color: var(--textS);
+}
+ul#nav-itens {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+#mini-icon {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+}

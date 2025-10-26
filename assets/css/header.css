@@ -1,0 +1,47 @@
+#icon-grande {
+  border-radius: 100%;
+  width: 176px;
+  height: 176px;
+}
+div#about-section #profile {
+  width: 590px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+}
+div#textos {
+  display: flex;
+  text-align: justify;
+  flex-direction: column;
+  gap: 8px;
+}
+div#textos h1 {
+  font: var(--heading1);
+}
+div#textos p {
+  font: var(--p-md);
+}
+
+div#about-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+}
+ul#info {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+ul#info li {
+  list-style-type: none;
+  color: var(--textS);
+  font: var(--p-md);
+  gap: 8px;
+
+  display: flex;
+  justify-content: left;
+}
