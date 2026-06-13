@@ -2,7 +2,7 @@
 
 Um mini-projeto prático focado em dominar o **CSS Flexbox**. O Travelgram é uma página web estática que simula a interface de um perfil do Instagram, contendo foto de perfil, nome, descrição e uma grade de fotos no feed.
 
-🔗 **Repositório:** [isacarrd/travelgram](https://github.com/isacarrd/travelgram)
+🔗 **Site:** [isacarrd/travelgram](https://travelgram-livid.vercel.app/)
 
 ## 🎯 Objetivo e Aprendizado
 
